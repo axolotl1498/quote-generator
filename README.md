@@ -25,7 +25,7 @@ Halo! Ini adalah project kecil-kecilan yang saya buat untuk latihan JavaScript d
 Project ini saya buat buat ngelatih diri dalam manipulasi DOM dan belajar bikin UI yang menarik. Mungkin ke depannya bakal saya kembangin pakai API atau ditambah fitur baru.
 
 ## 📞 Kontak
-Dibuat oleh **Vahmi Noor Soryan**  
+Dibuat oleh **Vahmi Noor Sofyan**  
 📧 Email: vahmisofyan@outlook.com  
 🔗 LinkedIn: [linkedin.com/in/vahmi-sofyan-819b60249](https://www.linkedin.com/in/vahmi-sofyan-819b60249)
 
